@@ -22,11 +22,3 @@ The most played song by Queen on YouTube is "Bohemian Rhapsody" with over 1.3 bi
 # Capturing Iconic Moments in Music History!
 
 <img src="queen.jfif" width="400">
-
-<img src="queen1.jfif" width="400"> 
-
-<img src="queen2.jfif" width="400"> 
-
-<img src="queen3.jfif" width="400"> 
-
-<img src="queen4.jfif" width="400">
