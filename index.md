@@ -13,3 +13,7 @@ The band Queen had a very flamboyant style of clothing. They often wore bright c
 # The Music That Defined a Generation 
 
 The most played song by Queen on YouTube is "Bohemian Rhapsody" with over 1.3 billion views.  
+
+# Photos
+
+<img src="queen.jfif" width="400">
