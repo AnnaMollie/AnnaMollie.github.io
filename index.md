@@ -30,3 +30,4 @@ The most played song by Queen on YouTube is "Bohemian Rhapsody" with over 1.3 bi
 
 <a href="index.html"><button style="background-color:black; color: white;">Home</button>  </a>
 <a href="about.html"><button style="background-color:black; color:white;">About</button> </a>
+<button class="btn"><i class="fa fa-home"></i> Home</button>
