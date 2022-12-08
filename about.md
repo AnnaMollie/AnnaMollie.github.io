@@ -1,5 +1,4 @@
   <head>
-    <title>About The Site</title>
   </head>
   <body>
     <h1>About Queen</h1>
